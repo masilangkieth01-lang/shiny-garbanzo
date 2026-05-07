@@ -1,4 +1,4 @@
- AEGIS-VISION // INTEGRATED TRACKING SYSTEM
+ Real-Time-Object-Detection-and-Tracking-using-AI-and-Webcam
 
 Aegis-Vision is a high-performance, real-time object detection and tracking application built with **Streamlit** and **YOLOv8**. Designed with a high-tech, cyberpunk-inspired HUD, this system utilizes unique ID tracking to ensure objects are counted once and never duplicated within a session.
 
